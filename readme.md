@@ -10,7 +10,7 @@ The model achieves an accuracy of >99%.
 
 
 ### Demo
-![](./img/python_WZyp9FDRzJ.gif)
+![](./img/python_WZyp9FDRzJ-ezgif.com-gif-to-mp4-converter.mp4)
 
 ### Hotkeys
 |   Key         |   Function    |
