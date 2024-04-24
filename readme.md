@@ -10,7 +10,7 @@ The model achieves an accuracy of >99%.
 
 
 ### Demo
-[![Watch the video](https://img.youtube.com/vi/P_PKHP6sJxM/hqdefault.jpg)](https://youtu.be/P_PKHP6sJxM)
+https://github.com/KR-Projects/lost-ark-fish-bot/assets/87583841/c79375ea-72b3-459b-bf20-e64c588b4dd4
 
 ### Hotkeys
 |   Key         |   Function    |
