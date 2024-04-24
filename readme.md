@@ -10,7 +10,7 @@ The model achieves an accuracy of >99%.
 
 
 ### Demo
-![](./img/python_WZyp9FDRzJ-ezgif.com-gif-to-mp4-converter.mp4)
+https://github.com/KR-Projects/lost-ark-fish-bot/assets/87583841/c79375ea-72b3-459b-bf20-e64c588b4dd4
 
 ### Hotkeys
 |   Key         |   Function    |
