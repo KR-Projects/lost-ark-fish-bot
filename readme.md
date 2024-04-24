@@ -10,7 +10,7 @@ The model achieves an accuracy of >99%.
 
 
 ### Demo
-[![Watch the video](https://img.youtube.com/vi/P_PKHP6sJxM/hqdefault.jpg)]([https://youtu.be/P_PKHP6sJxM])
+[![Watch the video](https://img.youtube.com/vi/P_PKHP6sJxM/hqdefault.jpg)](https://youtu.be/P_PKHP6sJxM)
 
 ### Hotkeys
 |   Key         |   Function    |
